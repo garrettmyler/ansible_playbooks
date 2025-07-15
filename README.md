@@ -1,2 +1,2 @@
 # ansible_playbooks
-Intended for training purposes only.
+This repository is intended for training purposes only.
